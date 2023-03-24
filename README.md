@@ -1,1 +1,1 @@
-# HCJ_Counter_App
+# Vanilla_JS_Counter_App
